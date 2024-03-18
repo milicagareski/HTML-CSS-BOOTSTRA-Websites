@@ -1,0 +1,33 @@
+body {
+      font-family: 'Aclonica', sans-serif;
+}
+
+.height {
+      min-height: 100vh;
+}
+
+.title-underline {
+      height: 10px;
+      width: 100px;
+      margin: 0 auto;
+}
+
+.btn-block{
+      width: 100%;
+}
+
+.height-80{
+      min-height: 80vh;
+}
+
+.about-pic {
+      background: url('/pexels-photo-15636474.jpeg');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      background-attachment: fixed;
+}
+
+#filler,#progress {
+      background:linear-gradient(to top,rgba(122,114,12,0.2),rgba(0,0,0,0.5), rgba(44, 24, 32, 0.3)) ,url('../img/p-2.jpeg') center/cover no-repeat fixed
+}

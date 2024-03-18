@@ -1,0 +1,316 @@
+body{
+      font-family: 'Indie Flower', cursive;
+}
+
+/* nav */
+
+nav {
+  background-color: rgb(240, 233, 233);
+
+}
+nav ul{
+  padding: 0;
+  margin: 0;
+    display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+}
+
+nav ul li {
+font-size: 25px;
+list-style-type: none;
+}
+
+nav ul li a{
+  text-decoration: none;
+  color: orange;
+  transition: all 0.3s linear;
+}
+
+nav ul li a:hover {
+color: blueviolet;
+background-color: orange;
+}
+
+/* end of nav */
+
+/* header */
+
+#header{
+  background: linear-gradient(to top, rgba(211, 112, 113, 0.4), rgba(118, 154, 187, 0.9)),  url(/img/cover.jpeg) ;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+.banner-center{
+  height: 100vh;
+ color: whitesmoke;
+ align-items: center;
+ display: flex;
+ flex-direction: column;
+ justify-content: end;
+ padding-bottom: 75px ;
+  
+}
+
+.banner-center h1 {
+  font-size: 150px;
+}
+
+.banner-center p {
+  font-size: 25px;
+}
+
+
+.text-underline {
+  width: 300px;
+  border: 3px solid rgb(0, 89, 255);
+  margin: 0 auto 20px auto;
+}
+
+.links{
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+}
+
+.navy-link,
+.white-link{
+  color: whitesmoke;
+  margin: 10px 30px 0px 30px ;
+  padding: 0 20px;
+  text-decoration: none;
+  border-radius: 20px;
+  transition: all 0.3s ease-in;
+}
+
+.navy-link{
+  border:3px solid #54485a;
+  background-color: #8a2be2;
+}
+
+.white-link{
+  border:3px solid whitesmoke;
+}
+
+.navy-link:hover{
+  background-color:#54485a ;
+}
+
+.white-link:hover {
+  background-color:#8a2be2 ;
+}
+
+/* end of header */
+
+/* title */
+.title-underline {
+  width: 300px;
+  border: 3px solid orange;
+  margin: 10px auto 30px auto;
+}
+
+/* end of title */
+
+
+/* qualities */
+.icon h2 {
+  margin: 10px auto;
+}
+.icon .fa {
+  font-size: 40px;
+  color: orange;
+  margin: 10px auto;
+}
+
+.icon {
+  margin: 10px auto;
+}
+
+
+
+
+#qualities {
+  background-color: rgb(206, 205, 205);
+  padding: 40px;
+}
+/* end of qualities */
+
+/* projects */
+
+#projects {
+  background-color: goldenrod;
+  color: white;
+  padding: 40px 0 0 0;
+}
+
+#projects img{
+  height: 600px;
+}
+
+#projects h1 {
+  margin-bottom: 20px;
+}
+
+.left{
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.right{
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.box{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.one{
+  margin-top: 20px;
+}
+
+/* end of projects */
+/* contact */
+
+#contact {
+  padding: 40px;
+  background-color: whitesmoke;
+}
+
+#contact .form-control {
+  margin-bottom: 5px;
+  border-radius: 0;
+  font-size: 20px;
+
+}
+
+#contact .btn {
+  background-color: rgb(78, 21, 21);
+  color: red;
+  transition: all 0.3s linear;
+  font-size: 24px;
+  margin-bottom: 15px;
+ 
+}
+
+#contact .btn:hover {
+  color: orange;
+  background-color: rgb(206, 199, 199);
+}
+
+.video{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.flower{
+ margin: 30px auto;
+}
+
+/* end of contact */
+
+/* footer */
+
+#footer {
+  padding: 40px;
+  color: whitesmoke;
+  background-color: rgb(59, 13, 13);
+}
+
+#footer h2 {
+  margin-bottom: 30px;
+}
+
+#footer p{
+  font-size: 20px;
+}
+
+.website{
+  font-size: 20px;
+}
+
+.website a {
+  color: orange;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+    transition: all 0.3s linear;
+}
+.website a:hover{
+  color: #909090;
+}
+.lower-row{
+  margin-top: 40px;
+}
+
+.icons {
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+.icons a {
+  color: #909090;
+  margin: 5px;
+  transition: all 0.3s linear;
+}
+
+.icons a:hover{
+  color: orange;
+}
+
+.copyrights {
+  color: beige;
+  margin-top: 20px;
+}
+
+
+/* end of footer */
+
+
+/* media */
+
+@media screen and (max-width:700px) {
+  #header h1 {
+    font-size: 60px;
+  }
+}
+
+@media screen and (max-width:576px) {
+
+  .item-1 {
+    order:1
+  }
+
+
+    .item-2 {
+      order:2
+    }
+
+.item-3 {
+  order:4
+}
+
+.item-4 {
+  order:3
+}
+
+.item-5 {
+  order:5
+}
+
+.item-6 {
+  order:6
+}
+
+
+}
+
+
+/* end of media */

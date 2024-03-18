@@ -1,0 +1,25 @@
+body{
+      font-family: 'Roboto Serif', serif;
+}
+
+.max-viewport{
+  min-height: 100vh;
+}
+
+.text-underline{
+  width: 100px;
+  border: 2px solid orangered;
+  margin: auto;
+}
+
+.about-img,
+#filler,
+#progress {
+  background: url(/img/about.jpeg) center/cover no-repeat fixed ;
+}
+
+
+#team img,
+#second-testimonials img {
+  height: 300px;
+}

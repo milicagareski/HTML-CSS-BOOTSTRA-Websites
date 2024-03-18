@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+
+* {
+      font-family: 'Indie Flower', cursive;
+}
+
+/*Cinnabar #E94F37*/
+/*English Violer #4B3F72*/
+/*Sunglow #FFC857*/
+/*Dark cyan #119DA4*/
+/*Cyclamen #FE64A3*/
+
+header {
+      height: 100vh;
+      background: url('../img/p-1.jpeg') center/cover no-repeat fixed ;
+}
+
+.banner-center{
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+}
+
+.banner-underline {
+      width: 300px;
+      border: 3px solid orange ;
+      margin: 0 auto;
+}
+
+.banner-center a{
+      text-decoration: none ;
+      color: white;
+      border: 3px solid white;
+      border-radius: 20px;
+      font-size: 30px;
+      margin: 0 auto;
+      display: inline-block;
+      padding: 0 10px;
+      margin-top: 30px;
+      transition: all 0.3s linear;
+}
+
+.banner-center a:hover{
+      color: orange;
+      background-color: white;
+}
+
+/* skills section */
+
+/* title  */
+.title{
+      margin: 20px 0;
+}
+
+.section-underline {
+      width: 100px;
+      border: 2px solid orange;
+      margin: 0 auto 10px auto;
+}
+/* end of title */
+#skills{
+      padding: 40px;
+      color: darkblue;
+}
+#skills .fa{
+      font-size: 100px;
+      margin: 10px auto;
+}
+
+#skills a{
+      color: white;
+      background-color: orange;
+      transition: all 0.3s linear;
+      font-size: 20px;
+      margin-bottom: 20px;
+}
+
+#skills a:hover{
+      background-color: grey;
+      
+}
+/* end of skills section */
+/* about */
+#about {
+      background-color: #993232;
+}
+
+.pic{
+      height: 600px;
+      background: url('../img/p-2.webp') center/cover no-repeat fixed ;
+      border-bottom: 600px solid transparent;
+      border-left:100px solid #993232  ;
+}
+
+.box {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;}
+/* end of about */
+
+#contact {
+      background-color: whitesmoke;
+      padding: 40px;
+}
+
+#contact button{
+      background-color: rgba(54, 52, 52, 0.158);
+      color: orange;
+      transition: all 0.3s linear;
+      font-size: 25px;
+      margin-bottom: 20px;
+}
+
+#contact button:hover {
+      background-color: grey;
+      color: green;
+}
+
+.form-control {
+      margin-bottom: 10px;
+}
+
+::placeholder{
+      font-size: 20px;
+}
+
+#footer {
+      padding: 40px;
+}
+
+#footer .section-underline{
+    border:2px solid grey;
+    margin-bottom: 40px ;
+}
+
+#footer .fa {
+      margin: 20px;
+      color: deepskyblue;
+      transition: all .03s linear;
+     
+}
+
+#footer .fa:hover{
+      color: grey;
+}
+
+.transparent {
+      background-color: rgba(0, 0, 0, 0.5);
+}
+
+.navbar-toggler-icon{
+background-color: orange;
+padding: 30px;
+border: 5px solid black;
+}
+
+.nav-link, 
+.navbar-brand {
+      color: orange!important;
+      font-style: italic;
+      font-size: 30px!important;
+}
+
+.nav-link{
+      transition: all 0.3s linear;
+}
+
+.nav-link:hover {
+      color: grey!important;
+}
