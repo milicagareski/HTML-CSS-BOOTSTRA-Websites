@@ -12,6 +12,8 @@
 
 [coffee_junkie](https://milicagareski.github.io/HTML-CSS-BOOTSTRA-Websites/coffee%20junkie/)
 
+[coffee_website](https://milicagareski.github.io/HTML-CSS-BOOTSTRA-Websites/coffee_website/)
+
 [another_bootstrap_project](https://milicagareski.github.io/HTML-CSS-BOOTSTRA-Websites/exclusive%20project/)
 
-[another_bootstrap_project](https://milicagareski.github.io/HTML-CSS-BOOTSTRA-Websites/tea_website/)
+[tea_website](https://milicagareski.github.io/HTML-CSS-BOOTSTRA-Websites/tea_website/)
