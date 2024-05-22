@@ -1,19 +1,19 @@
-[simple_recepes_website](https://milicagareski.github.io/HTML-CSS-BOOTSTRA-Websites/%20simple%20recepies/)
+[simple_recepes_website](https://deluxe-profiterole-3c177b.netlify.app/)
 
-[all_stars_project](https://milicagareski.github.io/HTML-CSS-BOOTSTRA-Websites/all%20star%20project/)
+[all_stars_project](https://peppy-concha-1f4bae.netlify.app/)
 
-[app_web_project](https://milicagareski.github.io/HTML-CSS-BOOTSTRA-Websites/app%20web%20project/)
+[app_web_project](https://leafy-liger-8dedf4.netlify.app/)
 
-[backroad_project](https://milicagareski.github.io/HTML-CSS-BOOTSTRA-Websites/backroad_project/)
+[backroad_project](https://bejewelled-piroshki-69dc3d.netlify.app/)
 
-[bootstrap_project](https://milicagareski.github.io/HTML-CSS-BOOTSTRA-Websites/bootstrap-project/)
+[bootstrap_project](https://legendary-stardust-05ed6f.netlify.app/)
 
-[builders_project](https://milicagareski.github.io/HTML-CSS-BOOTSTRA-Websites/builders%20project/#projects)
+[builders_project](https://whimsical-beignet-d50749.netlify.app/)
 
-[coffee_junkie](https://milicagareski.github.io/HTML-CSS-BOOTSTRA-Websites/coffee%20junkie/)
+[coffee_junkie](https://idyllic-biscotti-cafc46.netlify.app/)
 
-[coffee_website](https://milicagareski.github.io/HTML-CSS-BOOTSTRA-Websites/coffee_website/)
+[coffee_website](https://endearing-swan-fdb72e.netlify.app/)
 
-[another_bootstrap_project](https://milicagareski.github.io/HTML-CSS-BOOTSTRA-Websites/exclusive%20project/)
+[another_bootstrap_project](https://snazzy-macaron-d91f88.netlify.app/)
 
-[tea_website](https://milicagareski.github.io/HTML-CSS-BOOTSTRA-Websites/tea_website/)
+[tea_website](https://meek-genie-dae4a1.netlify.app/)
