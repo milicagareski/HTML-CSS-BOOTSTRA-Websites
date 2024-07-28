@@ -1,19 +1,18 @@
-[simple_recepes_website](https://deluxe-profiterole-3c177b.netlify.app/)
+Web Projects
 
-[all_stars_project](https://peppy-concha-1f4bae.netlify.app/)
+## Live Projects
 
-[app_web_project](https://leafy-liger-8dedf4.netlify.app/)
+- [Simple Recipes Website](https://deluxe-profiterole-3c177b.netlify.app/)
+- [All Stars Project](https://peppy-concha-1f4bae.netlify.app/)
+- [App Web Project](https://leafy-liger-8dedf4.netlify.app/)
+- [Backroad Project](https://bejewelled-piroshki-69dc3d.netlify.app/)
+- [Bootstrap Project](https://legendary-stardust-05ed6f.netlify.app/)
+- [Builders Project](https://whimsical-beignet-d50749.netlify.app/)
+- [Coffee Junkie](https://idyllic-biscotti-cafc46.netlify.app/)
+- [Coffee Website](https://endearing-swan-fdb72e.netlify.app/)
+- [Another Bootstrap Project](https://snazzy-macaron-d91f88.netlify.app/)
+- [Tea Website](https://meek-genie-dae4a1.netlify.app/)
 
-[backroad_project](https://bejewelled-piroshki-69dc3d.netlify.app/)
+## About
 
-[bootstrap_project](https://legendary-stardust-05ed6f.netlify.app/)
-
-[builders_project](https://whimsical-beignet-d50749.netlify.app/)
-
-[coffee_junkie](https://idyllic-biscotti-cafc46.netlify.app/)
-
-[coffee_website](https://endearing-swan-fdb72e.netlify.app/)
-
-[another_bootstrap_project](https://snazzy-macaron-d91f88.netlify.app/)
-
-[tea_website](https://meek-genie-dae4a1.netlify.app/)
+This repository contains various web development projects. Each project demonstrates different aspects of web development using HTML, CSS, JavaScript, and Bootstrap.
